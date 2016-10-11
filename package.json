@@ -1,0 +1,23 @@
+{
+	"name": "ProtonMail",
+	"version": "1.0.0",
+	"description": "ProtonMail Franz plugin",
+	"main": "index.js",
+	"author": "R3J3CT3D",
+	"license": "MIT",
+	"config": {
+		"serviceURL": "https://mail.protonmail.com/login",
+		"serviceName": "ProtonMail",
+		"message": "Secure Your Communications with ProtonMail",
+		"popup": [],
+		"hasNotificationSound": false,
+		"hasIndirectMessages": false,
+		"hasTeamID": false,
+		"customURL": false,
+		"hostedOnly": false,
+		"webviewOptions": {
+			"disablewebsecurity": ""
+		},
+		"openDevTools": false
+	}
+}
