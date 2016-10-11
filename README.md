@@ -15,3 +15,6 @@ A plugin for use your ProtonMail account on Franz
 Franz is a free messaging app combines chat & messaging services into one application. Franz currently supports Slack, WhatsApp, WeChat, HipChat, Facebook Messenger, Telegram, Google Hangouts, GroupMe, Skype and many more. You can download Franz for Mac, Windows & Linux.
 * [Github](https://github.com/meetfranz)
 * [Website](http://meetfranz.com)
+
+# Informations
+I'm not affiliated with Franz, I just developed the protonmail plugin because it did not exist.
